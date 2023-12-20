@@ -1,0 +1,22 @@
+#h1{
+    font: caption;
+    font-size: x-large;
+    margin-left: 20px;
+    margin-top: 80px;
+}
+#p1{
+    font: caption;
+    font-size: large;
+    text-align: right;
+    margin-top: 140px;
+}
+.c1{
+    color: white;
+    font:caption;
+}
+#d1{
+   position: relative;
+   
+    font: caption;
+
+}
